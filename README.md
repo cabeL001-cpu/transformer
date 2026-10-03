@@ -1,4 +1,4 @@
-# Transformer LLM Practise
+# A Transformer Practise
 
 
 ## Program architecture
